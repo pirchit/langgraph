@@ -5,7 +5,7 @@ search:
 
 # LangGraph Studio
 
-!!! info "Prerequisites"
+!! info "Prerequisites"
 
     - [LangGraph Platform](./langgraph_platform.md)
     - [LangGraph Server](./langgraph_server.md)
